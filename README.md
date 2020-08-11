@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey-ho 👋
 
 <!--
 **ninnanovila/ninnanovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just call me Ninna, I am a informatics student. I am so interested with Android Development and try to know more about it. If you wanna discuss just let me know or have any suggestions for me.
+
+Wanna know more, just knock my social media :
+- Instagram : @ninnanovila
+- LinkedInd : Ninna Novila
