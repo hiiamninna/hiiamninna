@@ -20,3 +20,5 @@ Just call me Ninna, I am a informatics student. I am so interested with Android 
 Wanna know more, just knock my social media :
 - Instagram : @ninnanovila
 - LinkedInd : Ninna Novila
+
+<img src="https://github-readme-stats.vercel.app/api?username=ninnanovila">
