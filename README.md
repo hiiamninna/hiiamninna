@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 A girl who is interested in software development, mobile especially. I like to learn more about technology. Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
-## Knock Me
 Instagram : https://www.instagram.com/ninnanovila/
 
 <img src="https://github-readme-stats.vercel.app/api?username=ninnanovila">
