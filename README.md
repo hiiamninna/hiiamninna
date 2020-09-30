@@ -1,4 +1,4 @@
-### Hey-ho 👋
+### Hey-ho 👋👋
 
 <!--
 **ninnanovila/ninnanovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just call me Ninna, I am a informatics student. I am so interested with Android Development and try to know more about it. If you wanna discuss just let me know or have any suggestions for me.
+A girl who is interested in software development, mobile especially. I like to learn more about technology. Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
-Wanna know more, just knock my social media :
-- Instagram : @ninnanovila
-- LinkedInd : Ninna Novila
+## Knock Me
+Instagram : https://www.instagram.com/ninnanovila/
 
 <img src="https://github-readme-stats.vercel.app/api?username=ninnanovila">
