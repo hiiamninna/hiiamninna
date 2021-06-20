@@ -23,4 +23,4 @@ Now, I am doing an internship as Robotic Process Automation Developer (UiPath) u
 
 ✉️ : novila.ninna@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=ninnanovila">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ninnanovila"> -->
