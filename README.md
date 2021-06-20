@@ -1,4 +1,4 @@
-# Hey-ho 👋👋
+# hi, welcome! 👋👋
 
 <!--
 **ninnanovila/ninnanovila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+First of all,
 
 A girl who is interested in software development, mobile especially. I like to learn more about technology. 
 Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
