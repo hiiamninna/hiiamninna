@@ -19,8 +19,6 @@ First of all,
 A girl who is interested in software development, mobile especially. I like to learn more about technology. 
 Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
-Now, I am doing an internship as Robotic Process Automation Developer (UiPath) until July 2021. 
-
 ✉️ : novila.ninna@gmail.com
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ninnanovila"> -->
