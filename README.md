@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 First of all,
 
-A girl who is interested in software development, mobile especially. I like to learn more about technology. 
+A girl who is interested in software development. I like to learn more about technology. 
 Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
 ✉️ : novila.ninna@gmail.com
