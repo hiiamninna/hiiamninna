@@ -19,6 +19,4 @@ First of all,
 A girl who is interested in software development. I like to learn more about technology. 
 Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
-✉️ : novila.ninna@gmail.com
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ninnanovila"> -->
