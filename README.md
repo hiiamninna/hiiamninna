@@ -20,4 +20,4 @@ A girl who is interested in software development. Currently working as a Back En
 I like to learn more about technology. 
 Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ninnanovila"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=hiiamninna">
