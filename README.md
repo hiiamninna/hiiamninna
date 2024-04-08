@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 First of all,
 
-A girl who is interested in software development. Currently working as a Back End Software Developer using Go Language 👩🏻‍💻. 
-I like to learn more about technology. 
+A girl who is interested in software development. Currently working as a Software Developer (mostly backend) with Go 👩🏻‍💻. 
+I like to learn more about technology and open to learn other technology stack. 
 Like listening to music 🎶, reading a book 📚, and watching a movie 🍿.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiiamninna">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=hiiamninna"> -->
